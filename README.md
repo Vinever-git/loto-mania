@@ -1,6 +1,11 @@
 #  loteria-total
 
-This template should help get you started developing with Vue 3 in Vite.
+This project aims to show information about the draw carried out by Lottery Mania
+
+## Project images
+
+![Mega-sena](./src/assets/imagem-loto.png)
+![Quina](./src/assets/imagem-loto2.png)
 
 ## Recommended IDE Setup
 
